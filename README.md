@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏼‍💻 College student<br>🐉 Gamer<br>🛜 TryHackMe User<br>
+👨🏼‍💻 College student<br>🐉 Gamer<br>🛜 TryHackMe User<br>💻 Coddy User<br>
 
 
 ## 🌐 Socials:
